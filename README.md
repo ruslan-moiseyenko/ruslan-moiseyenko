@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,html5,css,sass,react,reactnative)](https://skillicons.dev)
