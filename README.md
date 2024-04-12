@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,html5,css,sass,react,reactnative)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,html5,css,sass,react,nextjs)](https://skillicons.dev)
