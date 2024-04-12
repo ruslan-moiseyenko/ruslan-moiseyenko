@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,materialui,redux)](https://skillicons.dev)
 
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,MongoDB,sql)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,postgres)](https://skillicons.dev)
