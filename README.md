@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Ruslan Moiseyenko profile views](https://u8views.com/api/v1/github/profiles/50419466/views/day-week-month-total-count.svg)](https://u8views.com/github/ruslan-moiseyenko)
-
-[![Hits](https://u8views.com/api/v1/github/profiles/50419466/views/day-week-month-total-count.svg)](https://u8views.com/github/ruslan-moiseyenko)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,materialui,redux)](https://skillicons.dev)
