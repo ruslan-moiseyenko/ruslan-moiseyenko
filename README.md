@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslan-moiseyenko&show_icons=true&theme=tokyonight)
 
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,materialui,redux)](https://skillicons.dev)
 
